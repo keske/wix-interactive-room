@@ -1,4 +1,4 @@
-# Interactive Installation at WIX Playground, New York. April 2019.
+Interactive Installation at WIX Playground, New York. April 2019.
 =========================
 
 ## Description
@@ -56,5 +56,5 @@ Ramda
 WebSockets
 ```
 
-[structure]: https://github.com/keske/wix-interactive-room/ "Structure"
+[structure]: https://raw.githubusercontent.com/keske/wix-interactive-room/master/public/structure.png?token=AAN5LUXGDPQCOSQATKYKHHS42CL5U "Structure"
 
