@@ -1,9 +1,15 @@
-Interactive Installation at WIX Playground, New York. April 2019.
+Interactive Installation at WIX Playground
 =========================
 
 ## Description
 
-[https://www.wixplaygroundpresents.com/interaction-room](https://www.wixplaygroundpresents.com/interaction-room)
+Welcome to the Interaction Room.At the web page, each guest can modify his own unique graphic element that will have a unique sound effect and will be appeared on the projection screen above the DJ.
+
+Sound effects will go along with the DJ set, adding layers of sounds to the core musical set. 
+
+Visuals are unique to each participant as well as the sound effect. 
+
+[More Details](https://www.wixplaygroundpresents.com/interaction-room)
 
 ## All Project's Repos
 
@@ -58,3 +64,4 @@ WebSockets
 
 [structure]: https://raw.githubusercontent.com/keske/wix-interactive-room/master/public/structure.png?token=AAN5LUXGDPQCOSQATKYKHHS42CL5U "Structure"
 
+New York. April 2019.
